@@ -114,3 +114,4 @@ fun LoginScreen(
 fun MediumTitleText(modifier: Modifier, text: String, textAlign: TextAlign) {
 
 }
+adb connect 127.0.0.1:5555
